@@ -1,0 +1,25 @@
+.detail {
+  margin: 30px auto;
+  max-width: 600px;
+  width: 100%;
+  text-align: center;
+}
+
+.img-wrapper {
+  width: 100%;
+}
+
+.detail img {
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.detail h2 {
+}
+
+.detail h3 {
+}
+
+.detail p {
+}

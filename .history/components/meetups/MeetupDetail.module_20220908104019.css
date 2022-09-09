@@ -1,0 +1,34 @@
+.detail {
+  margin: 30px auto;
+  max-width: 600px;
+  width: 100%;
+  text-align: center;
+  color: #333;
+}
+
+.img-wrapper {
+  width: 100%;
+}
+
+.detail img {
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.detail h2 {
+  font-size: 28px;
+  font-weight: 500;
+  color: red;
+  text-transform: uppercase;
+}
+
+.detail h3 {
+  font-weight: normal;
+  font-size: 18px;
+  color: red;
+}
+
+.detail p {
+  font-size: 16px;
+}
