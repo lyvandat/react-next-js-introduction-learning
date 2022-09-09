@@ -110,7 +110,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _NewMeetupForm_module_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./NewMeetupForm.module.css */ "./components/meetups/NewMeetupForm.module.css");
 /* harmony import */ var _NewMeetupForm_module_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_NewMeetupForm_module_css__WEBPACK_IMPORTED_MODULE_3__);
 
-var _jsxFileName = "E:\\web developer\\Theory\\React source\\react-complete-guide-code-23-nextjs-introduction\\react-complete-guide-code-23-nextjs-introduction\\code\\06-onwards-to-a-bigger-project-starting-project\\components\\meetups\\NewMeetupForm.js";
+var _jsxFileName = "E:\\web developer\\Theory\\06-onwards-to-a-bigger-project-starting-project\\components\\meetups\\NewMeetupForm.js";
 
 
 
@@ -293,7 +293,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Card_module_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Card.module.css */ "./components/ui/Card.module.css");
 /* harmony import */ var _Card_module_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_Card_module_css__WEBPACK_IMPORTED_MODULE_1__);
 
-var _jsxFileName = "E:\\web developer\\Theory\\React source\\react-complete-guide-code-23-nextjs-introduction\\react-complete-guide-code-23-nextjs-introduction\\code\\06-onwards-to-a-bigger-project-starting-project\\components\\ui\\Card.js";
+var _jsxFileName = "E:\\web developer\\Theory\\06-onwards-to-a-bigger-project-starting-project\\components\\ui\\Card.js";
 
 
 function Card(props) {
@@ -345,7 +345,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var _components_meetups_NewMeetupForm__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../components/meetups/NewMeetupForm */ "./components/meetups/NewMeetupForm.js");
 
-var _jsxFileName = "E:\\web developer\\Theory\\React source\\react-complete-guide-code-23-nextjs-introduction\\react-complete-guide-code-23-nextjs-introduction\\code\\06-onwards-to-a-bigger-project-starting-project\\pages\\new-meetup\\index.js";
+var _jsxFileName = "E:\\web developer\\Theory\\06-onwards-to-a-bigger-project-starting-project\\pages\\new-meetup\\index.js";
 
 
 
