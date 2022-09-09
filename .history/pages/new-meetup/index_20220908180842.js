@@ -17,7 +17,7 @@ const NewMeetUp = (props) => {
 
     const data = await response.json();
 
-    console.log(data.message + "test");
+    console.log(data.message);
 
     router.push("/meetups");
   };
